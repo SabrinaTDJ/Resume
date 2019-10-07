@@ -2,7 +2,7 @@
 	"basics": {
 		"name": "Sabrina Tidjini",
 		"label": "Salesforce Administrator",
-		"summary": "Specialized in Business Developer for over 7 years, I have decided to switch my career to become a Salesforce Administrator. I have been training on the Salesforce Trailhead platform and so far I have 35 badges. I'm active in Salesforce communities and attend many Salesforce events.",
+		"summary": "Specialized in Business Developer for over 7 years, I have decided to switch my career to become a Salesforce Administrator. I have been training on the Salesforce Trailhead platform and so far I have 35 badges. I'm active in the Salesforce communities and attend many Salesforce events.",
 		"website": "https://sabtdj.com",
 		"email": "sabrina.tidjini17@gmail.com",
 		"phone": "437-992-7808",
@@ -78,18 +78,18 @@
 		},
 		{
 			"highlights": [
-				"Prospect potential new clinics and sign them all into the platform",
+				"Prospect potential new clinics and sign them up for the program",
                 "Cold calls cosmetic surgery clinics to ensure a robust pipeline of opportunities",
                 "Meet potential clinics by growing, maintaining, and leveraging the network",
-                "Ensure that data is accurately entered and managed in Edge, sales management system/CRM",
+                "Ensure that data is accurately entered and managed in Edge (sales management system/CRM)",
                 "I help the company to evaluate different CRM Solution and work on adding new objects and picklists on the current CRM Solution",
-                "Attend industry function, such as cosmetic surgery events in Montreal, Toronto, Ottawa, and Vancouver and provide feedback to the management team",
+                "Attend industry function, such as cosmetic surgery events in Montreal, Toronto, Ottawa, and Vancouver",
                 "Design a marketing survey that yields legitimate results to understand clinics habits and needs",
-                "Responsible for performing research and providing insights regarding the market, trends, competitors",
+                "Responsible for performing research and providing insights regarding the market, trends and competitors",
                 "Build a strong social media visibility through Facebook/Twitter/Instagram to increase inside applications/Loans and drive traffic to Credit Medical Website",
                 "Work with the marketing team to implement new processes to attract more clinics and solve marketing issues"
 			],
-			"summary":"Credit Medical provide innovative financial services that allow clients and practitioners the freedom to focus on the treatment, not the payment.",
+			"summary":"Credit Medical provide innovative financial services/loans that allow clients and medical practitioners the freedom to focus on the treatment, not the payment.",
 			"website": "http://creditmedical.com",
 			"company": "Credit Medical Corporation",
 			"position": "Bilingual Business Developer",
@@ -99,13 +99,13 @@
 		{
 			"highlights": [
 				"Researching and positioning products in the field of Augmented Reality to enhance sales and revenue",
-                "Developing partnership with startups providing AR in France and UK",
+                "Developing partnership with startups providing Augmented Reality in France and UK",
                 "Identified, pitched and on-boarded 6 museums in France contributing a significate increase in revenue",
                 "Liaise with engineers to translate the client’s needs, concerns, and objectives",
                 "Proven expertise in working with the executive level in client environments, as well as with procurement and business owners (Sales, VP, CEO)"
 				
 			],
-			"summary":"Globalive XMG was an augmented reality software company that focused on delivering innovative and immersive experiences to museums and cultural institutions.",
+			"summary":"Globalive XMG is an augmented reality software company that focused on delivering innovative and immersive experiences to museums and cultural institutions.",
 			"website": "https://www.globalive.com",
 			"company": "Globalive XMG",
 			"position": "Business Developer",
@@ -118,14 +118,15 @@
 			"highlights": [
 				"Prospecting new homeowners through yellowpage.com and other platforms",
                 "Onboarding and training new sales representative",
-                "Maintained an exceptional level of customer satisfaction",
+                "Maintaining an exceptional level of customer satisfaction",
                 "Enter Contact Records into Salesforce",
                 "Maintained and developed a rapport with various trade contractors and homeowners to gather user feedback and iterate on the product",
-                "Daily stand-up with the product manager to help him to understand clients' behaviors and take proper actions to develop features that align with prospect/clients needs."
+				"Daily stand-up with the product manager to help him to understand clients' behaviors and take proper actions to develop features that align with prospect/clients needs.",
+				"Acted as the scrum master on my cross-functional team"
 			],
 			"summary": "Joist helps contractors reach their full potential by providing software solutions that make working with clients seamless and managing their business simple.",
-			"website": "https://my.joist.com",
-			"company": "Joist App",
+			"website": "https://joist.com",
+			"company": "Joist",
 			"position": "Business Developer and part of the Scrum Team",
 			"endDate": "2015-01-09",
 			"startDate": "2013-03-08",
@@ -133,12 +134,11 @@
 		},
 		{
 			"highlights": [
-				"Responsible of a large partners portfolio",
+				"Responsible for large portfolio of partners",
                 "Implement the Purchasing Plan relayed by the Buyer Manager in line with the Product strategy:", 
-                    "Watch Permanently and actively the competitors prices to align ours with the marketplace",
+                    "Watch competitors prices to align ours with the marketplace",
                     "Creates full holiday packages (Spa/accommodation/Restaurant/Outdoor Activity) with multiples partners located in the same area",
-                    "Negotiation and renegotiation of pricing and contractual conditions to optimize collaboration with our partners (Holiday Residences such as Hotels/Castels/Chalets)",
-                    "Negotiation of promotions and stocks on products defined upstream",
+                    "Negotiation and renegotiation  the pricing  and contractual conditions to optimize collaboration with our partners (Holiday Residences such as Hotels/Castels/Chalets)",
                 "Collaborate and communicate constantly with the Product Manager for the correct display of products and services online"
 
 				
