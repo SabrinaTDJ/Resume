@@ -1,10 +1,11 @@
 {
 	"basics": {
 		"name": "Sabrina Tidjini",
-		"label": "Business Developer",
-		"summary": "Specialized in business development for over 6 years. Earned from startups/multinational companies strong skills that made me a top 3 sellers in each structure. However, working in tech gives me the opportunities to develop other skills that brought me to develop my own Bot RandomCoffees.com and being approached by Microsoft Team to launch a bot for their platform. Besides work, I love networking and work on my side projects. I'm a globetrotter who worked in a different part of the world such as France/Spain/Holland and Toronto. Being a polyglot helps me to feel integrate quickly. Experienced Co-Founder with a demonstrated history of working in the international trade and development industry. Skilled in Negotiation, Sales, Customer Relationship Management (CRM), Management, and Leadership. Strong product management professional with a Master of Business Administration - MBA focused in International Business/Trade from PSB Paris School of Business. ",
-		"website": "www.sabrina.com",
+		"label": "Salesforce Administrator",
+		"summary": "Specialized in Business Developer over 7 years, I have decided to switch my carreer into Salesforce Administrator. I have been working on multiples platforms that helped me to get my hands on Salesforce CRM. Indeed, so far I'am at 35 badges on Trailhead. I'm active on Salesforce Communities and attend most of the Salesforce events hosted by Accenture.   ",
+		"website": "sabtdj.com",
 		"email": "sabrina.tidjini17@gmail.com",
+		"phone": "437-992-7808",
 		"location": {
 			"city": "Canada",
 			"countryCode": "On"
@@ -44,128 +45,97 @@
     }
 	],
 	"work": [{
-			"summary": "Blockbid is an Australian crypto currency exchange.",
-			"website": "https://platform.blockbid.io",
-			"company": "Blockbid",
-			"position": "Senior Javascript Developer",
-			"startDate": "2018-03-01",
+			"summary": "RandomCoffees helps to get to know teammates across companies and encourage them to meet for coffee, walk, lunch, Skype on a weekly basis. RandomCoffees helps teams build a strong relationship and enhance corporate culture.",
+			"website": "https://www.randomcoffees.com",
+			"company": "Random Coffees",
+			"position": "Product Manager,",
+			"startDate": "2017-05-04",
+			"City": "Toronto",
 			"highlights": [
-				"React, Apollo, Styled Components",
-				"Node.js / Rails",
-				"Docker / Heroku / GCP",
-				"Used Figma for design and UX work",
-				"Optimizing markets with tens of millions of rows using SQL "
+				"Wireframe the RandomCoffees Bot through Slack",
+				"Prioritizes features by ranking them against the strategic goals and initiative in the backlog",
+				"Work closely with engineering on the technical specifications and ensure that teams have all of the information they need to deliver a complete product to market",
+				"Inform the development team about the bugs that the users are facing",
+				"Optimizing markets with tens of millions of rows using SQL ",
+				"Train users on the technical part of the product",
+				"In charge of social media communication/marketing",
+				"Participate in tech events to promo "
+				
 			]
 		},
 		{
 			"highlights": [
-				"Worked with Postgres, Redis and Dynamodb for storage.",
-				"Hosted on a mixture of Heroku Apps and EC2 servers.",
-				"Caching by Fastly and Cloudflare",
-				"Hybrid app supported on all platforms"
+				"MProspect for potential new clinics and turn into the increased business",
+				"Cold calls appropriate within the cosmetic surgery market to ensure a robust pipeline of opportunities",
+				"Meet potential clinics by growing, maintaining, and leveraging the network",
+				"Ensure that data is accurately entered and managed in Edge, sales management system",
+				"Attend industry function, such as cosmetic surgery events in Montreal, Toronto, Ottawa, and Vancouver and provide feedback to the management team",
+				"Design a marketing survey that yields legitimate results to understand clinics habits and needs",
+				"Responsible for performing research and providing insights regarding the market, trends, competitors",
+				"Build a strong social media visibility through Facebook/Twitter/Instagram to increase inside application and drive traffic to the Credit Medical Website",
+				"Submit weekly progress reports and ensure data is accurate",
+				"Work with marketing team to implement new processes to attract more clinics and solve marketing issues"
 			],
-			"summary": "Built a very large and complex React / Redux application. It works on all platforms and has IOS/Android builds due to it being a PWA. (wrapped it in React Native though only implementing a WebView)",
-			"website": "https://listium.com",
-			"company": "Listium",
-			"position": "Developer",
-			"startDate": "2016-01-01",
-			"endDate": "2018-01-01"
+			"website": "http://creditmedical.com",
+			"company": "Credit Medical Corporation",
+			"position": "Bilingual Business Developer",
+			"startDate": "2017-06-21",
+			"City": "Toronto"
 		},
 		{
 			"highlights": [
-				"Millions of sites use the CDN in production",
-				"Larger market share than Yahoo's and Microsoft's content distribution network",
-				"We serve hundreds of billions request a month",
-				"Contains over 3000 popular Javascript libraries",
-				"Millions of developers visit the site per year"
+				"Researching and positioning products in the field of Augmented Reality to enhance sales and revenue",
+				"Developing partnership with startups providing AR in France and UK Present plan approaches and pitches of the product to the potential clients",
+				"Identified and onboard 6 museums in France contributing to $360K in revenue",
+				"Liaise with engineers to translate the client’s needs, concerns, and objectives",
+				"Identify, up-sell & cross-sell opportunities within dedicated client base Identify “at- risk” renewal clients early in the cycle and define issues inhibiting a successful, timely renewal",
+				"Provide continuous feedback to management on both successes and challenges of the business",
+				"Product experience in CRM",
+				"Proven expertise in working with the executive level in client environments, as well as with procurement and business owners (Sales, VP, CEO)",
+				"Understanding of legal terms in SaaS contracts"
 			],
-			"summary": "Following Google’s CDN for jQuery, we decided to start a CDN for the less popular Javascript frameworks. The CDN is community moderated and open source on GitHub. We secured a partnership with Cloudflare who now supports the infrastructure.",
-			"website": "http://www.cdnjs.com",
-			"company": "Cdnjs",
-			"position": "Co-Founder",
-			"startDate": "2011-01-08"
+			"summary": "As the scrum master of one of the three cross-functional teams (focused on marketplace product), worked with the Director of Product to run the agile cadence (daily standups to identify blockers for team members, plan bi-weekly sprints and estimate effort and business value)",
+			"website": "https://www.globalive.com/",
+			"company": "Globalive XMG.",
+			"position": "Business Developer",
+			"startDate": "2015-05-08",
+			"endDate": "2017-06-06",
+			"City": "Toronto"
 		},
+	
 		{
 			"highlights": [
-				"Developed new tools for contacting congress",
-				"Brainstormed campaign ideas to raise maximum awareness about issues",
-				"Lots of social networking integration"
+				"Initiated construction of an onboarding and training framework for the existing account representatives team.",
+				" Part of the core ops team and helped create a structure to support multi-million dollar/month transactions",
+				"Maintained and developed a rapport with various trade contractors and homeowners to gather user feedback and iterate on the product",
+				"Maintained an exceptional level of customer satisfaction",
+				"Saleforce was our main CRM software tool"
+
 			],
-			"summary": "Hired to take EFF's campaigning to the next level by building an action centre in Ruby on Rails. The action centre is built around some large open source tools that lower the barrier to entry when contacting congress.",
-			"website": "http://www.eff.org",
-			"company": "Electronic Frontier Foundation",
-			"position": "Developer",
-			"startDate": "2014-04-01",
-			"endDate": "2016-01-01"
-		},
-		{
-			"highlights": [
-				"Managed a small team of developers and designers",
-				"Built the entire frontend application with Backbone.js",
-				"Transferred all of the infrastructure from Heroku to AWS"
-			],
-			"summary": "Started off as a front end developer but took on the role of CTO in early 2013. The application frontend is built with Javascript and organized as a single page application that talks to a collection of Rails web servers which are connected to MongoDB.",
-			"website": "http://www.earbits.com",
-			"company": "Earbits",
-			"position": "CTO",
+			"summary": "As the scrum master of one of the three cross functional team(focused on marketplace product), worked with the Director of Product to run the agile cadence (daily standups to identify blockers for team members, plan bi-weekly sprints and estimate effort and business value).",
+			"website": "https://my.joistapp.com",
+			"company": "Joist App",
+			"position": "Business Developer and part of the Scrum Team",
 			"endDate": "2015-01-09",
-			"startDate": "2013-03-08"
+			"startDate": "2013-03-08",
+			"City": "Toronto"
 		},
 		{
 			"highlights": [
-				"Over 3000 stars on Github",
-				"Community developed themes"
+				"Manage, animate and develop a portfolio of accounts payable defined with the Buyer Manager",
+				"Implement the Purchasing Plan relayed by the Buyer Manager in line with the Product strategy:", 
+					"Permanent watch on the toActively participate in merchandising and marketing optimization: selection of offers for off and online partners, marketing operations or marketing push-ups;urist market in France and Spain, opening of new accommodation, buy-backs, change of brand",
+					"Achievement and surpassing of sourcing objectives",
+					"Negotiation and renegotiation of pricing and contractual conditions to optimize collaboration with our partners",
+					"Negotiation of promotions and stocks on products defined upstream",
+				"Collaborate and communicate constantly with the Product Manager Assistants for the correct display of products and services: product stocks,"
 			],
-			"summary": "JSON Resume is a community driven open source initiative to create a JSON based standard for resumes. There is no reason why there can't be a common standard for writing a resume that can be extended with an ecosystem of open source tools.",
-			"website": "http://jsonresume.org",
-			"company": "JSON Resume",
-			"position": "Founder",
-			"startDate": "2014-04-01"
-		},
-		{
-			"highlights": [
-				"Generated  37,000,000 banner views",
-				"100, 000 phone calls to congress",
-				"500, 000 emails",
-				"250, 000 signatures"
-			],
-			"summary": "Worked on many politically charged campaigns against mass surveillance. Not only technically challenging work but also a lot of networking and getting my hands dirty with politics.    Our biggest project was \"TheDayWeFightBack\"..",
-			"website": "http://www.taskforce.is",
-			"company": "Taskforce.is",
-			"position": "Developer",
-			"startDate": "2013-06-01",
-			"endDate": "2016-01-01"
-		},
-		{
-			"highlights": [
-				"The site and blog combined have managed to receive over 200,000 visitors in 2014."
-			],
-			"summary": "An international directory of civilian drone / UAV operators for hire. Services include aerial photography, aerial video, mapping, surveying, precision agriculture, real estate photography, remote inspections and infrared imaging. Our plan is to be the place to go when looking for UAV/Drone services. The website is built in Backbone.js and API is built with Node.js and Postgres. ",
-			"website": "http://www.dronehire.org",
-			"company": "Drone Hire",
-			"position": "Co-Founder",
-			"startDate": "2013-01-01"
-		},
-		{
-			"highlights": [
-				"Over two million unique visitors a year",
-				"25,000+ ebook downloads",
-				"300,000+ Youtube views"
-			],
-			"summary": "I write tutorials and blog post regarding the popular Javascript framework Backbone.js. The tutorials cover a range of topics regarding front end development aimed at beginners, experts and anyone in between.",
-			"website": "http://backbonetutorials.com",
-			"company": "BackboneTutorials.com",
-			"position": "Founder",
-			"startDate": "2011-01-01",
-			"endDate": "2014-01-01"
-		},
-		{
-			"summary": "Ephox is a worldwide company who is heavily involved with the development of TinyMce and enterprise editors. My primary role included building front-end widgets and applications. Worked on a major product using Backbone.js as a base. Heavily involved in UI/UX design and wire-framing. Also spend a lot of time designing API specifications and documentation.",
-			"website": "http://ephox.com",
-			"company": "Ephox",
-			"position": "Front-end Developer",
-			"endDate": "2012-06-01",
-			"startDate": "2011-01-01"
+			"website": "http://www.travelfactory.fr/",
+			"company": "TravelFactory",
+			"position": "Juniot Buyer and Assistante Product Manager",
+			"startDate": "2010-06-01",
+			"endDate": "2014-10-10",
+			"City": "Paris"
 		}
 	],
 	"meta": {
