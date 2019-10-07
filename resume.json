@@ -2,8 +2,8 @@
 	"basics": {
 		"name": "Sabrina Tidjini",
 		"label": "Salesforce Administrator",
-		"summary": "Specialized in Business Developer over 7 years, I have decided to switch my carreer into Salesforce Administrator. I have been working on multiples platforms that helped me to get my hands on Salesforce CRM. Indeed, so far I'am at 35 badges on Trailhead. I'm active on Salesforce Communities and attend most of the Salesforce events hosted by Accenture.   ",
-		"website": "sabtdj.com",
+		"summary": "Specialized in Business Developer over 7 years, I have decided to switch my carreer to become a Salesforce Administrator. I have been training on Salesforce Trailhead platform and so far I have 35 badges. I'm active on Salesforce Communities and attend many Salesforce events.",
+		"website": "https://sabtdj.com",
 		"email": "sabrina.tidjini17@gmail.com",
 		"phone": "437-992-7808",
 		"location": {
@@ -12,11 +12,25 @@
 		}
 	},
 	"education": [{
+		"endDate": "2016-09-02",
+		"area": "UX-Design",
+		"studyType": "Certification",
+		"institution": "Red Academy",
+		"City": "Toronto"
+	},{
 		"endDate": "2011-01-12",
 		"startDate": "2008-01-03",
 		"area": "International Business Trade/Marketing",
 		"studyType": "Master",
-		"institution": "Paris School Of Management-ESG"
+		"institution": "Paris School Of Management-ESG",
+		"City": "Paris"
+	},{
+		"endDate": "2008-06-27",
+		"startDate": "2007-09-03",
+		"area": "Bachelor of Business Administration",
+		"studyType": "Bachelor",
+		"institution": "Paris School Of Management-ESG",
+		"City": "Paris-London"
 	}],
 
 	"skills": [{
@@ -56,24 +70,24 @@
 				"Prioritizes features by ranking them against the strategic goals and initiative in the backlog",
 				"Work closely with engineering on the technical specifications and ensure that teams have all of the information they need to deliver a complete product to market",
 				"Inform the development team about the bugs that the users are facing",
-				"Optimizing markets with tens of millions of rows using SQL ",
 				"Train users on the technical part of the product",
 				"In charge of social media communication/marketing",
-				"Participate in tech events to promo "
+				"Participate in tech events to promote RandomCoffees"
 				
 			]
 		},
 		{
 			"highlights": [
-				"MProspect for potential new clinics and turn into the increased business",
+				"Prospect potential new clinics and turn into the increased business",
 				"Cold calls appropriate within the cosmetic surgery market to ensure a robust pipeline of opportunities",
 				"Meet potential clinics by growing, maintaining, and leveraging the network",
-				"Ensure that data is accurately entered and managed in Edge, sales management system",
+				"Ensure that data is accurately entered and managed in Edge, sales management system/CRM",
+				"I help the company to evaluate diferent CRM Solution and work on adding new objects and picklists on the current CRM Solution",
 				"Attend industry function, such as cosmetic surgery events in Montreal, Toronto, Ottawa, and Vancouver and provide feedback to the management team",
 				"Design a marketing survey that yields legitimate results to understand clinics habits and needs",
 				"Responsible for performing research and providing insights regarding the market, trends, competitors",
-				"Build a strong social media visibility through Facebook/Twitter/Instagram to increase inside application and drive traffic to the Credit Medical Website",
-				"Submit weekly progress reports and ensure data is accurate",
+				"Build a strong social media visibility through Facebook/Twitter/Instagram to increase inside applications/Loans and drive traffic to Credit Medical Website",
+				"Submit weekly progress reports and ensure data is accurate in Edge",
 				"Work with marketing team to implement new processes to attract more clinics and solve marketing issues"
 			],
 			"website": "http://creditmedical.com",
@@ -85,12 +99,11 @@
 		{
 			"highlights": [
 				"Researching and positioning products in the field of Augmented Reality to enhance sales and revenue",
-				"Developing partnership with startups providing AR in France and UK Present plan approaches and pitches of the product to the potential clients",
-				"Identified and onboard 6 museums in France contributing to $360K in revenue",
+				"Developing partnership with startups providing AR in France and UK Present plan approaches and pitches of the product to the potential clients (museums)",
+				"Identified and onboarded 6 museums in France contributing to $360K in revenue",
 				"Liaise with engineers to translate the client’s needs, concerns, and objectives",
 				"Identify, up-sell & cross-sell opportunities within dedicated client base Identify “at- risk” renewal clients early in the cycle and define issues inhibiting a successful, timely renewal",
 				"Provide continuous feedback to management on both successes and challenges of the business",
-				"Product experience in CRM",
 				"Proven expertise in working with the executive level in client environments, as well as with procurement and business owners (Sales, VP, CEO)",
 				"Understanding of legal terms in SaaS contracts"
 			],
@@ -106,10 +119,9 @@
 		{
 			"highlights": [
 				"Initiated construction of an onboarding and training framework for the existing account representatives team.",
-				" Part of the core ops team and helped create a structure to support multi-million dollar/month transactions",
 				"Maintained and developed a rapport with various trade contractors and homeowners to gather user feedback and iterate on the product",
 				"Maintained an exceptional level of customer satisfaction",
-				"Saleforce was our main CRM software tool"
+				"Enter Contcat Records into Salesforce  "
 
 			],
 			"summary": "As the scrum master of one of the three cross functional team(focused on marketplace product), worked with the Director of Product to run the agile cadence (daily standups to identify blockers for team members, plan bi-weekly sprints and estimate effort and business value).",
@@ -122,13 +134,14 @@
 		},
 		{
 			"highlights": [
-				"Manage, animate and develop a portfolio of accounts payable defined with the Buyer Manager",
+				"Manage, animate and develop a large partners portfolio",
 				"Implement the Purchasing Plan relayed by the Buyer Manager in line with the Product strategy:", 
-					"Permanent watch on the toActively participate in merchandising and marketing optimization: selection of offers for off and online partners, marketing operations or marketing push-ups;urist market in France and Spain, opening of new accommodation, buy-backs, change of brand",
+					"Watch Permanently and actively the competition prices in order to align ours with the marketplace",
+					"Creates full holiday packages (Spa/accomodation/Restaurant/Outdoor Activity) with multiples partners located in the same area",
 					"Achievement and surpassing of sourcing objectives",
-					"Negotiation and renegotiation of pricing and contractual conditions to optimize collaboration with our partners",
+					"Negotiation and renegotiation of pricing and contractual conditions to optimize collaboration with our partners (Holiday Residences such as Hotels/Castels/Chalets)",
 					"Negotiation of promotions and stocks on products defined upstream",
-				"Collaborate and communicate constantly with the Product Manager Assistants for the correct display of products and services: product stocks,"
+				"Collaborate and communicate constantly with the Product Manager for the correct display of products and services online"
 			],
 			"website": "http://www.travelfactory.fr/",
 			"company": "TravelFactory",
