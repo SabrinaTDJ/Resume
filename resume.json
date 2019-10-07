@@ -2,56 +2,30 @@
 	"basics": {
 		"name": "Sabrina Tidjini",
 		"label": "Business Developer",
-		"summary": "I’m a full stack web developer who can build apps from the ground up. I've worked mostly at startups so I am use to wearing many hats. I am a very product focussed developer who priotizes user feedback first and foremost. I'm generally very flexible when investigating new roles. ",
-		"website": "https://ajaxdavis.com",
-		"email": "thomasalwyndavis@gmail.com",
+		"summary": "Specialized in business development for over 6 years. Earned from startups/multinational companies strong skills that made me a top 3 sellers in each structure. However, working in tech gives me the opportunities to develop other skills that brought me to develop my own Bot RandomCoffees.com and being approached by Microsoft Team to launch a bot for their platform. Besides work, I love networking and work on my side projects. I'm a globetrotter who worked in a different part of the world such as France/Spain/Holland and Toronto. Being a polyglot helps me to feel integrate quickly. Experienced Co-Founder with a demonstrated history of working in the international trade and development industry. Skilled in Negotiation, Sales, Customer Relationship Management (CRM), Management, and Leadership. Strong product management professional with a Master of Business Administration - MBA focused in International Business/Trade from PSB Paris School of Business. ",
+		"website": "www.sabrina.com",
+		"email": "sabrina.tidjini17@gmail.com",
 		"location": {
-			"city": "Melbourne",
-			"countryCode": "AU"
-		},
-		"profiles": [{
-				"username": "ajaxdavis",
-				"url": "https://twitter.com/ajaxdavis",
-				"network": "twitter"
-			},
-			{
-				"url": "https://github.com/thomasdavis",
-				"username": "thomasdavis",
-				"network": "github"
-			}
-		]
+			"city": "Canada",
+			"countryCode": "On"
+		}
 	},
 	"education": [{
-		"endDate": "2009-12-12",
-		"startDate": "2008-02-12",
-		"area": "Software Engineering (incomplete)",
-		"studyType": "Bachelors",
-		"institution": "The University of Queensland"
+		"endDate": "2011-01-12",
+		"startDate": "2008-01-03",
+		"area": "International Business Trade/Marketing",
+		"studyType": "Master",
+		"institution": "Paris School Of Management-ESG"
 	}],
-	"references": [{
-			"reference": "Thomas was hired as a lead developer and, upon the leaving of our co-founder took over as CTO of Earbits. Thomas is, hands down, one of those A Players you hear of companies dying to hire. He is incredibly smart, not just at code but about everything from classical music to Chinese language and culture. Thomas is great to work with and, as a well established contributor to open source projects and several successful ventures, commands the respect of engineers at all levels. I would suggest doing anything you can to have him on your team.",
-			"name": "Joey Flores, Co-founder and CEO of Earbits, Inc."
-		},
-		{
-			"reference": "I've had the great pleasure of working with Thomas for the past three years at Earbits, and on a few side projects. Two years ago our CTO left on a moment's notice, Thomas saved our company by quickly stepping up to fill this role. He has been with our company through thick and thin and made serious personal sacrifices in order to help the company during tough times. He is a phenomenal hacker and a true team player. Highly recommended!",
-			"name": "Yotam Rosenbaum, SVP of Operations, Earbits, Inc."
-		},
-		{
-			"reference": "Thomas is an extremely talented engineer with a very broad range of skills and experience. From being a thought leader in the front-end community via backbonetutorials.com and cdnjs.com, to designing and implementing the API for cdnjs.com, working with Thomas has been fantastic learning experience. Thomas is truly a full stack develop, and his work output is incredible. If there is any opportunity to work with Thomas, I take it. He is the definition of an A player.",
-			"name": "Ryan Kirkman, Senior Software Engineer at Nerdwallet"
-		},
-		{
-			"reference": "On Thomas Davis ... Hire this guy. Do not be fooled. Incredibly capable and fast. Plays well with others. Unbelievable at front-end work end programming but that is just the start. Visionary. Hire him before I do.",
-			"name": "Greg Davis"
-		}
-	],
+
 	"skills": [{
 			"keywords": [
-				"HTML / JSX",
-				"CSS / BEM / Styled Components",
-				"Javascript / Typescript",
-				"React",
-				"Redux / Apollo"
+				"Agile/Scrum",
+				"CRM SALESFORCE",
+				"Lean Startup Methodology",
+				"Negociation",
+				"Analytical skills",
+				"Market Research"
 			],
 			"level": "Senior",
 			"name": "Frontend"
