@@ -2,7 +2,7 @@
 	"basics": {
 		"name": "Sabrina Tidjini",
 		"label": "Salesforce Administrator",
-		"summary": "Specialized in Business Developer over 7 years, I have decided to switch my carreer to become a Salesforce Administrator. I have been training on Salesforce Trailhead platform and so far I have 35 badges. I'm active on Salesforce communities and attend many Salesforce events.",
+		"summary": "Specialized in Business Developer for over 7 years, I have decided to switch my career to become a Salesforce Administrator. I have been training on the Salesforce Trailhead platform and so far I have 35 badges. I'm active on Salesforce communities and attend many Salesforce events.",
 		"website": "https://sabtdj.com",
 		"email": "sabrina.tidjini17@gmail.com",
 		"phone": "437-992-7808",
@@ -67,27 +67,27 @@
 			"City": "Toronto",
 			"highlights": [
 				"Wireframe the RandomCoffees Bot",
-				"Prioritizes the backlog by ranking features against strategic goals",
-				"Work closely with engineering team on the technical specifications to  ensure that the team have all of the information they need to deliver a complete product to market",
-				"Prioritize bugs that users are facing for the engeneering team to fix",
-				"Train users on the technical part of the product",
-				"In charge of social media communication/marketing",
-				"Participate in tech events to promote RandomCoffees"
+                "Prioritizes the backlog by ranking features against strategic goals",
+                "Work closely with the engineering team on the technical specifications to ensure that the team have all of the information they need to deliver a complete product to market",
+                "Prioritize bugs that users are facing for the engineering team to fix",
+                "Train users on the technical part of the product",
+                "In charge of social media communication/marketing",
+                "Participate in tech events to promote RandomCoffees"
 				
 			]
 		},
 		{
 			"highlights": [
 				"Prospect potential new clinics and sign them all into the platform",
-				"Cold calls  cosmetic surgery clinics to ensure a robust pipeline of opportunities",
-				"Meet potential clinics by growing, maintaining, and leveraging the network",
-				"Ensure that data is accurately entered and managed in Edge, sales management system/CRM",
-				"I help the company to evaluate diferent CRM Solution and work on adding new objects and picklists on the current CRM Solution",
-				"Attend industry function, such as cosmetic surgery events in Montreal, Toronto, Ottawa, and Vancouver and provide feedback to the management team",
-				"Design a marketing survey that yields legitimate results to understand clinics habits and needs",
-				"Responsible for performing research and providing insights regarding the market, trends, competitors",
-				"Build a strong social media visibility through Facebook/Twitter/Instagram to increase inside applications/Loans and drive traffic to Credit Medical Website",
-				"Work with marketing team to implement new processes to attract more clinics and solve marketing issues"
+                "Cold calls cosmetic surgery clinics to ensure a robust pipeline of opportunities",
+                "Meet potential clinics by growing, maintaining, and leveraging the network",
+                "Ensure that data is accurately entered and managed in Edge, sales management system/CRM",
+                "I help the company to evaluate different CRM Solution and work on adding new objects and picklists on the current CRM Solution",
+                "Attend industry function, such as cosmetic surgery events in Montreal, Toronto, Ottawa, and Vancouver and provide feedback to the management team",
+                "Design a marketing survey that yields legitimate results to understand clinics habits and needs",
+                "Responsible for performing research and providing insights regarding the market, trends, competitors",
+                "Build a strong social media visibility through Facebook/Twitter/Instagram to increase inside applications/Loans and drive traffic to Credit Medical Website",
+                "Work with the marketing team to implement new processes to attract more clinics and solve marketing issues"
 			],
 			"website": "http://creditmedical.com",
 			"company": "Credit Medical Corporation",
@@ -98,10 +98,10 @@
 		{
 			"highlights": [
 				"Researching and positioning products in the field of Augmented Reality to enhance sales and revenue",
-				"Developing partnership with startups providing AR in France and UK",
-				"Identified, pitched and onboarded 6 museums in France contributing a significate increase in revenue",
-				"Liaise with engineers to translate the client’s needs, concerns, and objectives",
-				"Proven expertise in working with the executive level in client environments, as well as with procurement and business owners (Sales, VP, CEO)"
+                "Developing partnership with startups providing AR in France and UK",
+                "Identified, pitched and on-boarded 6 museums in France contributing a significate increase in revenue",
+                "Liaise with engineers to translate the client’s needs, concerns, and objectives",
+                "Proven expertise in working with the executive level in client environments, as well as with procurement and business owners (Sales, VP, CEO)"
 				
 			],
 			"summary":"",
@@ -115,13 +115,12 @@
 	
 		{
 			"highlights": [
-				"Prospecting new home owners through yellowpage.com and others platforms",
-				"Onboarding and training new sales representative",
-				"Maintained an exceptional level of customer satisfaction",
-				"Enter Contact Records into Salesforce",
-				"Maintained and developed a rapport with various trade contractors and homeowners to gather user feedback and iterate on the product",
-				"Daily stand-up with the product manager to help him to understand clients behaviors and take proper actions to develop features that align with prospect/clients needs."
-
+				"Prospecting new homeowners through yellowpage.com and other platforms",
+                "Onboarding and training new sales representative",
+                "Maintained an exceptional level of customer satisfaction",
+                "Enter Contact Records into Salesforce",
+                "Maintained and developed a rapport with various trade contractors and homeowners to gather user feedback and iterate on the product",
+                "Daily stand-up with the product manager to help him to understand clients' behaviors and take proper actions to develop features that align with prospect/clients needs."
 			],
 			"summary": "Joist helps contractors reach their full potential by providing software solutions that make working with clients seamless and managing their business simple.",
 			"website": "https://my.joist.com",
@@ -134,12 +133,13 @@
 		{
 			"highlights": [
 				"Responsible of a large partners portfolio",
-				"Implement the Purchasing Plan relayed by the Buyer Manager in line with the Product strategy:", 
-					"Watch Permanently and actively the competition prices in order to align ours with the marketplace",
-					"Creates full holiday packages (Spa/accomodation/Restaurant/Outdoor Activity) with multiples partners located in the same area",
-					"Negotiation and renegotiation of pricing and contractual conditions to optimize collaboration with our partners (Holiday Residences such as Hotels/Castels/Chalets)",
-					"Negotiation of promotions and stocks on products defined upstream",
-				"Collaborate and communicate constantly with the Product Manager for the correct display of products and services online"
+                "Implement the Purchasing Plan relayed by the Buyer Manager in line with the Product strategy:", 
+                    "Watch Permanently and actively the competitors prices to align ours with the marketplace",
+                    "Creates full holiday packages (Spa/accommodation/Restaurant/Outdoor Activity) with multiples partners located in the same area",
+                    "Negotiation and renegotiation of pricing and contractual conditions to optimize collaboration with our partners (Holiday Residences such as Hotels/Castels/Chalets)",
+                    "Negotiation of promotions and stocks on products defined upstream",
+                "Collaborate and communicate constantly with the Product Manager for the correct display of products and services online"
+
 				
 			],
 			"summary":  "For the last 20 years, Groupe TRAVELFACTORY has been a leader of all-inclusive ski holidays, summer holiday rentals and organisation of group student trips in France. Nowadays the company is a key player in the French tourism sector, all year round. From a start-up created in the 2000’s by a small group of people passionate about the mountain sector and the online sale of ski, TRAVELFACTORY is now an essential tourism business in France. Agility, perseverance, team spirit, ambition and fulfilment are the key values of the company, all with the aim of simplifying holiday purchases for our customers.",
