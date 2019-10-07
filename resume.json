@@ -2,7 +2,7 @@
 	"basics": {
 		"name": "Sabrina Tidjini",
 		"label": "Salesforce Administrator",
-		"summary": "Specialized in Business Developer for over 7 years, I have decided to switch my career to become a Salesforce Administrator. I have been training on the Salesforce Trailhead platform and so far I have 35 badges. I'm active on Salesforce communities and attend many Salesforce events.",
+		"summary": "Specialized in Business Developer for over 7 years, I have decided to switch my career to become a Salesforce Administrator. I have been training on the Salesforce Trailhead platform and so far I have 35 badges. I'm active in Salesforce communities and attend many Salesforce events.",
 		"website": "https://sabtdj.com",
 		"email": "sabrina.tidjini17@gmail.com",
 		"phone": "437-992-7808",
@@ -59,7 +59,7 @@
     }
 	],
 	"work": [{
-			"summary": "RandomCoffees is a Slack Bot that helps to get to know teammates across companies and encourage them to meet for coffee, walk, lunch, Skype on a weekly basis. RandomCoffees helps teams build a strong relationship and enhance corporate culture.",
+			"summary": "RandomCoffees is a Slack Bot that helps collegues get to know each others by encouraging them to meet for coffee, walk, lunch, Skype on a weekly basis. RandomCoffees helps teams build a strong relationship and enhance corporate culture.",
 			"website": "https://www.randomcoffees.com",
 			"company": "RandomCoffees (side project)",
 			"position": "Product Manager",
@@ -89,6 +89,7 @@
                 "Build a strong social media visibility through Facebook/Twitter/Instagram to increase inside applications/Loans and drive traffic to Credit Medical Website",
                 "Work with the marketing team to implement new processes to attract more clinics and solve marketing issues"
 			],
+			"summary":"Credit Medical provide innovative financial services that allow clients and practitioners the freedom to focus on the treatment, not the payment.",
 			"website": "http://creditmedical.com",
 			"company": "Credit Medical Corporation",
 			"position": "Bilingual Business Developer",
