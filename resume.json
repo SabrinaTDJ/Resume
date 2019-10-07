@@ -19,38 +19,29 @@
 	}],
 
 	"skills": [{
-			"keywords": [
-				"Agile/Scrum",
-				"CRM SALESFORCE",
-				"Lean Startup Methodology",
-				"Negociation",
-				"Analytical skills",
-				"Market Research"
-			],
-			"level": "Senior",
-			"name": "Frontend"
-		},
-		{
-			"keywords": [
-				"Node",
-				"Ruby",
-				"Postgres",
-				"Redis",
-				"Serverless"
-			],
-			"level": "Senior",
-			"name": "Backend"
-		},
-		{
-			"keywords": [
-				"AWS",
-				"G Cloud",
-				"Heroku",
-				"Caching"
-			],
-			"level": "Senior",
-			"name": "Devops"
-		}
+			"level": "Advanced",
+			"name": "Agile/Scrum"
+    },
+    {
+			"level": "Beginner",
+			"name": "CRM Salesforce"
+    },
+    {
+			"level": "Advanced",
+			"name": "Lean Startup Methodology"
+    },
+    {
+			"level": "Master",
+			"name": "Negotiation"
+    },
+    {
+			"level": "Master",
+			"name": "Market Research"
+    },
+    {
+			"level": "Master",
+			"name": "Analytical skills"
+    }
 	],
 	"work": [{
 			"summary": "Blockbid is an Australian crypto currency exchange.",
