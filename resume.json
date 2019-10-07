@@ -2,7 +2,7 @@
 	"basics": {
 		"name": "Sabrina Tidjini",
 		"label": "Salesforce Administrator",
-		"summary": "Specialized in Business Developer for over 7 years, I have decided to switch my career to become a Salesforce Administrator. I have been training on the Salesforce Trailhead platform and so far I have 35 badges. I'm active in the Salesforce communities and attend many Salesforce events.",
+		"summary": "Specialized in Business Developer for over 7 years, I'am actively exploring career oportunities in the CRM space. I have been training on the Salesforce Trailhead platform and so far I have 35 badges. I'm active in the Salesforce communities and attend many Salesforce events.",
 		"website": "https://sabtdj.com",
 		"email": "sabrina.tidjini17@gmail.com",
 		"phone": "437-992-7808",
@@ -29,7 +29,7 @@
 	},{
 		"endDate": "2008-06-27",
 		"startDate": "2007-09-03",
-		"area": "Bachelor of Business Administration",
+		"area": "Business Administration",
 		"studyType": "Bachelor",
 		"institution": "Paris School Of Management-ESG",
     "City": "Paris-London",
@@ -37,27 +37,27 @@
 	}],
 
 	"skills": [{
-			"level": "Advanced",
+			"level": "Intermediate",
 			"name": "Agile/Scrum"
     },
     {
-			"level": "Beginner",
+			"level": "Intermediate",
 			"name": "CRM Salesforce"
     },
     {
-			"level": "Advanced",
+			"level": "Intermediate",
 			"name": "Lean Startup Methodology"
     },
     {
-			"level": "Master",
+			"level": "Advanced",
 			"name": "Negotiation"
     },
     {
-			"level": "Master",
+			"level": "Advanced",
 			"name": "Market Research"
     },
     {
-			"level": "Master",
+			"level": "Advanced",
 			"name": "Analytical skills"
     }
 	],
@@ -69,11 +69,11 @@
 			"startDate": "2017-05-04",
 			"City": "Toronto",
 			"highlights": [
-				"Wireframe the RandomCoffees Bot",
                 "Prioritizes the backlog by ranking features against strategic goals",
                 "Work closely with the engineering team on the technical specifications to ensure that the team have all of the information they need to deliver a complete product to market",
-                "Prioritize bugs that users are facing for the engineering team to fix",
-                "Train users on the technical part of the product",
+				"Prioritize bugs that users are facing for the engineering team to fix",
+				"Train users on the technical part of the product",
+				"Wireframe the RandomCoffees Bot",
                 "In charge of social media communication/marketing",
 				"Participate in tech events to promote RandomCoffees"
 
@@ -81,11 +81,12 @@
 		},
 		{
 			"highlights": [
+				"Ensure that data is accurately entered and managed in Edge (sales management system/CRM)",
+				"Responsible for evaluating and configuring the solution to business needs",
+				"Suggest adding new objects and picklists on the current CRM Solution",
 				"Prospect potential new clinics and sign them up for the program",
                 "Cold calls cosmetic surgery clinics to ensure a robust pipeline of opportunities",
                 "Meet potential clinics by growing, maintaining, and leveraging the network",
-                "Ensure that data is accurately entered and managed in Edge (sales management system/CRM)",
-                "I help the company to evaluate different CRM Solution and work on adding new objects and picklists on the current CRM Solution",
                 "Attend industry function, such as cosmetic surgery events in Montreal, Toronto, Ottawa, and Vancouver",
                 "Design a marketing survey that yields legitimate results to understand clinics habits and needs",
                 "Responsible for performing research and providing insights regarding the market, trends and competitors",
@@ -119,13 +120,14 @@
 
 		{
 			"highlights": [
+				"Enter Contact Records into Salesforce",
+				"Daily stand-up with the product manager to help him to understand clients' behaviors and take proper actions to develop features that align with prospect/clients needs.",
+				"Acted as the scrum master on my cross-functional team",
 				"Prospecting new homeowners through yellowpage.com and other platforms",
                 "Onboarding and training new sales representative",
                 "Maintaining an exceptional level of customer satisfaction",
-                "Enter Contact Records into Salesforce",
-                "Maintained and developed a rapport with various trade contractors and homeowners to gather user feedback and iterate on the product",
-				"Daily stand-up with the product manager to help him to understand clients' behaviors and take proper actions to develop features that align with prospect/clients needs.",
-				"Acted as the scrum master on my cross-functional team"
+                "Maintained and developed a rapport with various trade contractors and homeowners to gather user feedback and iterate on the product"
+				
 			],
 			"summary": "Joist helps contractors reach their full potential by providing software solutions that make working with clients seamless and managing their business simple.",
 			"website": "https://joist.com",
