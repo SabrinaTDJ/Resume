@@ -59,7 +59,7 @@
     }
 	],
 	"work": [{
-			"summary": "RandomCoffees is a Slack Bot that helps collegues get to know each others by encouraging them to meet for coffee, walk, lunch, Skype on a weekly basis. RandomCoffees helps teams build a strong relationship and enhance corporate culture.",
+			"summary": "RandomCoffees is a Slack Bot that helps collegues get to know each others by encouraging them to meet for coffee, walk, lunch, Skype on a weekly basis.", 
 			"website": "https://www.randomcoffees.com",
 			"company": "RandomCoffees (side project)",
 			"position": "Product Manager",
@@ -72,7 +72,7 @@
                 "Prioritize bugs that users are facing for the engineering team to fix",
                 "Train users on the technical part of the product",
                 "In charge of social media communication/marketing",
-                "Participate in tech events to promote RandomCoffees"
+				"Participate in tech events to promote RandomCoffees"
 				
 			]
 		},
@@ -105,8 +105,8 @@
                 "Proven expertise in working with the executive level in client environments, as well as with procurement and business owners (Sales, VP, CEO)"
 				
 			],
-			"summary":"",
-			"website": "https://www.globalive.com/",
+			"summary":"Globalive XMG was an augmented reality software company that focused on delivering innovative and immersive experiences to museums and cultural institutions.",
+			"website": "https://www.globalive.com",
 			"company": "Globalive XMG",
 			"position": "Business Developer",
 			"startDate": "2015-05-08",
@@ -143,7 +143,7 @@
 
 				
 			],
-			"summary":  "For the last 20 years, Groupe TRAVELFACTORY has been a leader of all-inclusive ski holidays, summer holiday rentals and organisation of group student trips in France. Nowadays the company is a key player in the French tourism sector, all year round. From a start-up created in the 2000’s by a small group of people passionate about the mountain sector and the online sale of ski, TRAVELFACTORY is now an essential tourism business in France. Agility, perseverance, team spirit, ambition and fulfilment are the key values of the company, all with the aim of simplifying holiday purchases for our customers.",
+			"summary":  "Travelfactory has been a leader of all-inclusive ski holidays, summer holiday rentals and organisation of group student trips in France. Nowadays the company is a key player in the French tourism sector.",
 			"website": "http://www.travelfactory.fr",
 			"company": "TravelFactory",
 			"position": "Junior Buyer and Assistante Product Manager",
