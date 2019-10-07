@@ -16,21 +16,24 @@
 		"area": "UX-Design",
 		"studyType": "Certification",
 		"institution": "Red Academy",
-		"City": "Toronto"
+    "City": "Toronto",
+    "courses": []
 	},{
 		"endDate": "2011-01-12",
 		"startDate": "2008-01-03",
 		"area": "International Business Trade/Marketing",
 		"studyType": "Master",
 		"institution": "Paris School Of Management-ESG",
-		"City": "Paris"
+    "City": "Paris",
+    "courses": []
 	},{
 		"endDate": "2008-06-27",
 		"startDate": "2007-09-03",
 		"area": "Bachelor of Business Administration",
 		"studyType": "Bachelor",
 		"institution": "Paris School Of Management-ESG",
-		"City": "Paris-London"
+    "City": "Paris-London",
+    "courses": []
 	}],
 
 	"skills": [{
@@ -59,7 +62,7 @@
     }
 	],
 	"work": [{
-			"summary": "RandomCoffees is a Slack Bot that helps collegues get to know each others by encouraging them to meet for coffee, walk, lunch, Skype on a weekly basis.", 
+			"summary": "RandomCoffees is a Slack Bot that helps collegues get to know each others by encouraging them to meet for coffee, walk, lunch, Skype on a weekly basis.",
 			"website": "https://www.randomcoffees.com",
 			"company": "RandomCoffees (side project)",
 			"position": "Product Manager",
@@ -73,7 +76,7 @@
                 "Train users on the technical part of the product",
                 "In charge of social media communication/marketing",
 				"Participate in tech events to promote RandomCoffees"
-				
+
 			]
 		},
 		{
@@ -103,7 +106,7 @@
                 "Identified, pitched and on-boarded 6 museums in France contributing a significate increase in revenue",
                 "Liaise with engineers to translate the client’s needs, concerns, and objectives",
                 "Proven expertise in working with the executive level in client environments, as well as with procurement and business owners (Sales, VP, CEO)"
-				
+
 			],
 			"summary":"Globalive XMG is an augmented reality software company that focused on delivering innovative and immersive experiences to museums and cultural institutions.",
 			"website": "https://www.globalive.com",
@@ -113,7 +116,7 @@
 			"endDate": "2017-06-06",
 			"City": "Toronto"
 		},
-	
+
 		{
 			"highlights": [
 				"Prospecting new homeowners through yellowpage.com and other platforms",
@@ -135,13 +138,13 @@
 		{
 			"highlights": [
 				"Responsible for large portfolio of partners",
-                "Implement the Purchasing Plan relayed by the Buyer Manager in line with the Product strategy:", 
+                "Implement the Purchasing Plan relayed by the Buyer Manager in line with the Product strategy:",
                     "Watch competitors prices to align ours with the marketplace",
                     "Creates full holiday packages (Spa/accommodation/Restaurant/Outdoor Activity) with multiples partners located in the same area",
                     "Negotiation and renegotiation  the pricing  and contractual conditions to optimize collaboration with our partners (Holiday Residences such as Hotels/Castels/Chalets)",
                 "Collaborate and communicate constantly with the Product Manager for the correct display of products and services online"
 
-				
+
 			],
 			"summary":  "Travelfactory has been a leader of all-inclusive ski holidays, summer holiday rentals and organisation of group student trips in France. Nowadays the company is a key player in the French tourism sector.",
 			"website": "http://www.travelfactory.fr",
