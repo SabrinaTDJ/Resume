@@ -157,6 +157,16 @@
 			"City": "Paris"
 		}
 	],
+	"languages": [{
+		"language": "French",
+		"fluency": "Native speaker"
+	  }, {
+		"language": "English",
+		"fluency": "Fluent"
+		}, {
+			"language": "Dutch",
+			"fluency": "Fluent"
+	  }],
 	"meta": {
 		"theme": "elegant"
 	}
