@@ -69,29 +69,31 @@
 			"startDate": "2017-05-04",
 			"City": "Toronto",
 			"highlights": [
-                "Prioritizes the backlog by ranking features against strategic goals",
-                "Work closely with the engineering team on the technical specifications to ensure that the team have all of the information they need to deliver a complete product to market",
-				"Prioritize bugs that users are facing for the engineering team to fix",
-				"Train users on the technical part of the product",
-				"Wireframe the RandomCoffees Bot",
-                "In charge of social media communication/marketing",
-				"Participate in tech events to promote RandomCoffees"
 
+				"Defining product vision, go-to-market strategies and development priorities", 
+				"Responsible for multi channels product marketing and communications",
+				"Working closely with engineering team on the technical specifications and release cycles",
+				"Designing wireframes for the RandomCoffees Bot",
+				"Prioritizing product feature requests and bug fixes",
+				"Deliver technical training for administrators", 
+				"Participate in tech events to promote RandomCoffees"
 			]
 		},
 		{
 			"highlights": [
-				"Ensure that data is accurately entered and managed in Edge (sales management system/CRM)",
-				"Responsible for evaluating and configuring the solution to business needs",
-				"Suggest adding new objects and picklists on the current CRM Solution",
-				"Prospect potential new clinics and sign them up for the program",
-                "Cold calls cosmetic surgery clinics to ensure a robust pipeline of opportunities",
-                "Meet potential clinics by growing, maintaining, and leveraging the network",
-                "Attend industry function, such as cosmetic surgery events in Montreal, Toronto, Ottawa, and Vancouver",
-                "Design a marketing survey that yields legitimate results to understand clinics habits and needs",
-                "Responsible for performing research and providing insights regarding the market, trends and competitors",
-                "Build a strong social media visibility through Facebook/Twitter/Instagram to increase inside applications/Loans and drive traffic to Credit Medical Website",
-                "Work with the marketing team to implement new processes to attract more clinics and solve marketing issues"
+
+				"Day-to-day administration of sales cycle management & CRM solution (Edge)",  
+				"Collecting business requirements for on-going solution optimization to improve sales productivity", 
+				"Delivered on data cleansing project improving accuracy and recency",
+				"Prospecting potential new clinics and signing them up for the program",
+				"Cold calling cosmetic surgery clinics to generate a robust pipeline of opportunities",
+				"Meet prospective clinics by growing, maintaining, and leveraging the network",
+				"Attending industry functions, such as cosmetic surgery events across Canada",
+				"Designed a marketing survey to gather data on clinics habits and needs yielding valuable insights",
+				"Responsible for market research, monitoring trends and competitive intelligence",
+				"Developed a strong multi channel social media presence, resulting in an increase in web traffic, applications & conversions", 
+				"Working closely with the marketing team to optimize business processes",
+				"Developing demand generation strategies"
 			],
 			"summary":"Credit Medical provide innovative financial services/loans that allow clients and medical practitioners the freedom to focus on the treatment, not the payment.",
 			"website": "http://creditmedical.com",
